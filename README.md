@@ -38,11 +38,18 @@ I'm a passionate _Backend developer_ and freelance _Software engineer_ from Brno
 
 <h3 align="center">Stay in touch</h3>
 
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/pechmar/" target="_blank">
+  <a href="mailto:dev@mpech.net" target="_blank">
     <img src="https://github.com/martafonekVOLE/images/blob/main/email.png?raw=true" height="50px" />
-    <img src="https://github.com/martafonekVOLE/images/blob/main/world-wide-web.png?raw=true", height="50px">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/pechmar/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+    
+  <a href="https://mpech.net" target="_blank">
+    <img src="https://github.com/martafonekVOLE/images/blob/main/world-wide-web.png?raw=true", height="50px">
   </a>
 </p>
 
