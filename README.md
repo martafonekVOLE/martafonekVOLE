@@ -16,7 +16,7 @@ class Person:
 me = Person("Martin Pech", 23, "Czech", "Simplo s.r.o", True)
 me.sayhello()
 ```
-I'm a passionate _Backend developer_ and freelance _Software engineer_ from Brno, Czechia. In 2016 I made my first steps in the world of software development and since then I have been part of many interesting projects. Nowadays I mostly work on web applications, on my first ever game in Unity. I also study at University of Technology.
+I'm a passionate _Backend developer_ and freelance _Software engineer_ from Brno, Czechia. In 2016 I made my first steps in the world of software development and since then I have been part of many interesting projects. Nowadays I mostly work on web applications and on my first ever game in Unity. I also study at University of Technology.
 
 - Are you dreaming of any kind of software application? [Tell me abour your idea!](https://mpech.net/projectStarter)! 
 
