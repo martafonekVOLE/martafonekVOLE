@@ -3,18 +3,32 @@
 ### ... I'm Martin, nice to meet you! 👀
 
 
-```python
-class Person:
-  def __init__(self, name, age, nationality, company, student):
-    self.name = name
+```go
 
-  def sayhello(self):
-    print("Hello world!")
-    print("... I'm " + self.name.split(' ')[0] +  ", nice to meet you! 👀")
+type Person struct {
+	Name        string
+	Age         int
+	Nationality string
+	Company     string
+	Student     bool
+}
 
+func (p *Person) SayHello() {
+	fmt.Println("Hello world!")
+	firstName := strings.Split(p.Name, " ")[0]
+	fmt.Println("... I'm " + firstName + ", nice to meet you! 👀")
+}
 
-me = Person("Martin Pech", 24, "Czech", "Simplo s.r.o", True)
-me.sayhello()
+func main() {
+	me := Person{
+		Name:        "Martin Pech",
+		Age:         25,
+		Nationality: "Czechia",
+		Company:     "Simplo s.r.o",
+		Student:     true,
+	}
+	me.SayHello()
+}
 ```
 I'm a passionate _Backend developer_ and freelance _Software engineer_ from Brno, Czechia. In 2016 I made my first steps in the world of software development and since then I have been part of many interesting projects.
 
