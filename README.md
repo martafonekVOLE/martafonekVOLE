@@ -30,13 +30,21 @@ func main() {
 	me.SayHello()
 }
 ```
-I'm a passionate _Backend developer_ and freelance _Software engineer_ from Brno, Czechia. In 2016 I made my first steps in the world of software development and since then I have been part of many interesting projects.
+#### About me
+I am a Software Engineer with a strong focus on backend development and system architecture. I combine hands-on experience in Laravel with familiarity in Rust, Java, and Go, along with a deep understanding of APIs, databases, and containerized environments. My work bridges clean software design and practical implementation, ensuring efficient and maintainable systems.
 
-- Are you dreaming of any kind of software application? [Tell me abour your idea!](https://mpech.net/projectStarter)! 
+🏫 - Master's student @ MUNI FI
 
-- Do you want to find out more? Visit my [website](https://mpech.net/developer)!
+👨‍💼 - Laravel developer @ Simplo s.r.o.
 
-<h3 align="center">Languages and Tools</h3>
+---
+
+#### Do you have project of any kind in mind? Tell me more, I might be the right person to help you 🤠
+Share your ideas 👉 [Project Starter](https://mpech.net/projectStarter)
+
+---
+
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <a href="https//mpech.net">
