@@ -37,10 +37,12 @@ I am a Software Engineer with a strong focus on backend development and system a
 
 👨‍💼 - Laravel developer @ Simplo s.r.o.
 
+Checkout my work here 👉 [mpech.net](https://mpech.net/)
+
 ---
 
 #### Do you have project of any kind in mind? Tell me more, I might be the right person to help you 🤠
-Share your ideas 👉 [Project Starter](https://mpech.net/projectStarter)
+Share your ideas 👉 [Send me an email!](mailto:dev@mpech.net)
 
 ---
 
